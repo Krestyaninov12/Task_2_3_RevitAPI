@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\Task_2_3_RevitAPI.dll"</Assembly>
+		<AddInId>1F192C75-0E01-407E-9DE7-8BD562613CDE</AddInId>
+		<FullClassName>Task_2_3_RevitAPI.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество колонн в модели</Text>
+	</AddIn>
+</RevitAddIns>
